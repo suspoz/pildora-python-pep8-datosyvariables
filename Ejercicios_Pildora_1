@@ -1,0 +1,35 @@
+(A) PONTE A PRUEBA - Ejercicio 1: Corrige los siguientes datos:
+
+TotalProductos= "12"
+PrecioUnitario = "24,95"
+CategoriaProducto='AB'
+  EstaActivo = "True"
+DescuentoAplicado = 0
+PesoKg = "1.5"
+
+
+
+(B) PONTE A PRUEBA - Ejercicio 2: 
+Completa el siguiente ejercicio trabajando con variables, tipos de datos (int, float, carácter como str de longitud 1 y bool), 
+type() y casting, corrigiendo además los 4 errores de PEP 8 presentes en el código inicial:
+
+1.Variables y tipos de datos: 
+-Crea cuatro variables con estos valores: 
+-unidades_compradas = 6 (int), precio_unidad = 18.75 (float), seccion = "B" (carácter en str) y en_stock = True (bool).
+
+2.Comprobación con type(): 
+-Muestra por pantalla el tipo de dato de cada una de las cuatro variables anteriores usando type() 
+-(unidades_compradas, precio_unidad, seccion y en_stock).
+
+3.Casting de variables: 
+-Realiza y guarda estas conversiones explícitas: 
+-convierte unidades_compradas (6) a str en unidades_texto, convierte precio_unidad (18.75) a int en precio_entero,
+ y convierte en_stock (True) a int en stock_numero.
+
+4.Casting de valores literales: 
+-Realiza y guarda estas conversiones explícitas: 
+-convierte "15" a int en cantidad_num, convierte "4.25" a float en tarifa_float, y convierte 0 a bool en sin_existencias.
+
+5.Salida de resultados: 
+-Imprime el valor y el tipo (type()) de las seis variables convertidas
+ (unidades_texto, precio_entero, stock_numero, cantidad_num, tarifa_float y sin_existencias).
