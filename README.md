@@ -6,7 +6,7 @@ Intro a Python I: Tipos de datos y variables + pep8
 ## 1. Descripción del proyecto
 
 Esta píldora formativa es una introducción a Python para personas
-que no tienen conocimientos previos de programación.
+que están comenzando con la programación.
 
 Aprenderemos a almacenar información mediante variables,
 identificar los principales tipos de datos y realizar
